@@ -201,3 +201,6 @@ Intermediate/*
 
 # Binaries for UE4
 Binaries/*
+
+# Saved Files for UE4
+Saved/*
