@@ -198,3 +198,6 @@ FakesAssemblies/
 
 # Intermediate files for UE4
 Intermediate/*
+
+# Binaries for UE4
+Binaries/*
