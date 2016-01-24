@@ -204,3 +204,6 @@ Binaries/*
 
 # Saved Files for UE4
 Saved/*
+
+# Starter
+Content/StartContent/*
